@@ -1,0 +1,11 @@
+# Node
+lms-backend/node_modules/
+lms-backend/.env
+lms-backend/logs/
+
+# React Native
+lms-mobile/node_modules/
+lms-mobile/.env
+
+# OS files
+.DS_Store
